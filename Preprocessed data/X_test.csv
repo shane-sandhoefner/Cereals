@@ -1,4 +1,4 @@
-calories,protein,fat,sodium,fiber,sugars,potass,vitamins,weight,cups,0,1,2,3,4,5,6,7,8
+calories,protein,fat,sodium,fiber,sugars,potass,vitamins,weight,cups,mfr A,mfr G,mfr K,mfr N,mfr P,mfr Q,mfr R,cold,hot
 120,3,1,200,6.0,14,260,25,1.33,0.67,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 100,4,1,135,2.0,6,110,25,1.0,0.5,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
 110,2,1,125,1.0,13,30,25,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
